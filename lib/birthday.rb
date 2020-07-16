@@ -21,10 +21,3 @@ def age_appropriate_birthday(birthday_kids)
   end
 end
 
-=======
-def age_appropriate_birthday()
-  if age <= 12
-  "Happy Birthday #{kids_name}! You are now #{age} years old!"
-end
-end
->>>>>>> dd90e6a47643aa83b96f9c2c307848d93de38e71
